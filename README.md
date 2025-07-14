@@ -1,21 +1,25 @@
-# C++ Primer Plus 第六版中文版原书代码和习题解答
+# C++ Primer Plus 第六版学习笔记
 
-![C++ Primer Plus](https://static.fungenomics.com/images/2021/07/c-primer-plus6.jpg)
+本项目Forked from [Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th#)，非常感谢原作者。
 
-这是最有名的 C++ 入门书之一，内容系统、易读。比起《C++ Primer》，这本书更适合入门。
-
-本项目是《C++ Primer Plus（第6版）中文版》的学习仓库，包括笔记和我所给出的课后练习答案。
+原项目包括作者的笔记和给出的课后练习答案。
 
 
 ## 下载
 
-《C++ Primer Plus（第6版）中文版》 带书签 pdf 电子书可以从我的百度云盘下载：
+《C++ Primer Plus（第6版）中文版》 文字版。百度云盘下载：
 
 ```bash
 链接: https://pan.baidu.com/s/1WXc_hfJhJKL4c8InAVXHMg  提取密码: cg2f
 ```
 
-全书一共 18 章，外加 10 章附录，pdf 文件大小 157.06 MB。虽然很大，然而**这是文字版+完整标签，而不是扫描版**。
+全书一共 18 章，外加 10 章附录，pdf 文件大小 157.06 MB。这是文字版+完整标签，而不是扫描版。
+
+《C++ Primer Plus（第6版）中文版》 扫描版。连接摘自知乎网页：
+
+```bash 
+https://pdfs.top/book/56l54
+```
 
 
 <p align="center"><a> ---- START ---- </a></p>
